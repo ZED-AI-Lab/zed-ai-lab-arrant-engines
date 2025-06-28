@@ -1,0 +1,101 @@
+District,Facility_Type,Patient_Count,Satisfaction_Score,Feedback
+Lusaka,Hospital,405,2.44,Service was excellent
+Mongu,Clinic,222,3.37,Friendly staff
+Lusaka,Clinic,441,1.65,Clean environment
+Kasama,Hospital,270,2.56,Friendly staff
+Lusaka,Health Post,168,4.88,Service was excellent
+Lusaka,Clinic,358,2.03,Unhelpful staff
+Kasama,Clinic,232,3.63,Unhelpful staff
+Kasama,Clinic,337,2.3,Service was excellent
+Kasama,Hospital,356,4.09,Clean environment
+Lusaka,Hospital,349,1.52,Service was excellent
+Lusaka,Hospital,131,4.88,Lack of medicine
+Kasama,Hospital,451,2.82,Long waiting time
+Mongu,Health Post,260,1.94,Clean environment
+Mongu,Health Post,199,1.29,Friendly staff
+Chipata,Hospital,86,1.68,Lack of medicine
+Kasama,Health Post,401,3.08,Clean environment
+Chipata,Clinic,361,2.35,Service was excellent
+Mongu,Clinic,410,4.32,Service was excellent
+Chipata,Clinic,108,2.72,Service was excellent
+Kasama,Hospital,180,1.99,Service was excellent
+Kasama,Clinic,461,3.47,Friendly staff
+Kasama,Health Post,251,3.83,Lack of medicine
+Lusaka,Hospital,292,1.67,Unhelpful staff
+Chipata,Health Post,84,1.67,Long waiting time
+Mongu,Clinic,494,1.15,Friendly staff
+Mongu,Clinic,142,3.95,Friendly staff
+Mongu,Clinic,487,3.66,Unhelpful staff
+Lusaka,Hospital,496,2.9,Unhelpful staff
+Lusaka,Health Post,256,4.38,Long waiting time
+Kasama,Hospital,402,4.22,Long waiting time
+Mongu,Hospital,440,3.34,Unhelpful staff
+Lusaka,Clinic,381,4.47,Service was excellent
+Kasama,Hospital,354,1.82,Friendly staff
+Mongu,Hospital,399,1.45,Clean environment
+Chipata,Clinic,262,2.08,Long waiting time
+Kasama,Hospital,208,1.23,Long waiting time
+Lusaka,Clinic,491,3.12,Unhelpful staff
+Lusaka,Clinic,494,4.75,Lack of medicine
+Kasama,Clinic,73,1.16,Clean environment
+Kasama,Clinic,453,1.49,Clean environment
+Lusaka,Hospital,342,2.81,Long waiting time
+Chipata,Clinic,53,4.74,Service was excellent
+Mongu,Clinic,269,2.26,Lack of medicine
+Chipata,Hospital,413,3.03,Clean environment
+Kasama,Hospital,431,1.17,Long waiting time
+Chipata,Health Post,69,1.59,Clean environment
+Lusaka,Hospital,493,4.95,Lack of medicine
+Kasama,Hospital,201,4.86,Lack of medicine
+Mongu,Health Post,99,1.02,Friendly staff
+Lusaka,Hospital,226,4.81,Unhelpful staff
+Lusaka,Hospital,484,3.56,Unhelpful staff
+Mongu,Hospital,145,4.47,Long waiting time
+Mongu,Hospital,154,2.82,Lack of medicine
+Chipata,Health Post,469,3.06,Friendly staff
+Kasama,Hospital,299,2.96,Friendly staff
+Mongu,Hospital,166,3.67,Clean environment
+Mongu,Health Post,403,1.56,Clean environment
+Kasama,Clinic,277,1.12,Friendly staff
+Mongu,Health Post,115,2.23,Clean environment
+Mongu,Clinic,384,3.82,Lack of medicine
+Chipata,Health Post,467,1.81,Service was excellent
+Lusaka,Health Post,469,3.69,Lack of medicine
+Lusaka,Hospital,311,4.88,Friendly staff
+Lusaka,Clinic,344,1.38,Friendly staff
+Lusaka,Hospital,475,3.69,Lack of medicine
+Mongu,Clinic,292,2.78,Clean environment
+Kasama,Health Post,420,4.47,Clean environment
+Kasama,Health Post,235,1.71,Unhelpful staff
+Chipata,Clinic,295,3.77,Friendly staff
+Chipata,Hospital,174,4.35,Long waiting time
+Mongu,Hospital,317,4.78,Unhelpful staff
+Kasama,Hospital,180,3.73,Clean environment
+Kasama,Hospital,286,2.99,Lack of medicine
+Lusaka,Health Post,67,3.47,Clean environment
+Mongu,Health Post,89,4.48,Lack of medicine
+Mongu,Health Post,70,3.28,Unhelpful staff
+Lusaka,Health Post,448,1.12,Friendly staff
+Mongu,Health Post,274,4.72,Clean environment
+Mongu,Hospital,404,3.76,Lack of medicine
+Chipata,Hospital,331,3.71,Friendly staff
+Kasama,Hospital,57,1.86,Long waiting time
+Mongu,Hospital,149,3.64,Lack of medicine
+Chipata,Health Post,289,2.58,Unhelpful staff
+Kasama,Health Post,136,3.6,Long waiting time
+Lusaka,Health Post,347,1.43,Long waiting time
+Chipata,Clinic,477,3.63,Service was excellent
+Chipata,Hospital,63,5.0,Clean environment
+Kasama,Hospital,383,1.19,Lack of medicine
+Lusaka,Health Post,51,4.91,Long waiting time
+Chipata,Hospital,424,2.63,Service was excellent
+Mongu,Hospital,342,4.48,Unhelpful staff
+Mongu,Health Post,374,4.13,Friendly staff
+Mongu,Clinic,471,3.27,Lack of medicine
+Lusaka,Clinic,90,3.95,Long waiting time
+Chipata,Clinic,367,4.51,Clean environment
+Mongu,Health Post,365,2.62,Service was excellent
+Lusaka,Hospital,430,2.31,Long waiting time
+Mongu,Health Post,160,3.67,Clean environment
+Kasama,Health Post,63,4.23,Long waiting time
+Chipata,Hospital,280,4.05,Lack of medicine

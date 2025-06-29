@@ -2,7 +2,7 @@
 
 ZED AI Lab is an open-source AI hub by Arrant Solutions, offering free datasets, models, and tools for Zambia and Africa. Built for collaboration, learning, and innovation.
 
-## What You'll Find
+## What You will  Find
 - Datasets for real-world problems
 - Pre-trained models
 - Starter notebooks
